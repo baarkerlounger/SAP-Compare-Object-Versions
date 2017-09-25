@@ -7,7 +7,7 @@
 *&---------------------------------------------------------------------*
 *======================================================================*
 *  Program Name         : ZGECAR_UTILITY_VRSN_CMPRSN
-*  Created By           : A_SANJAY
+*  Created By           : D_BAARK
 *  Created On           : 15 Jul 2015
 *  Functional Design ID : Utility Program to Compare Object Versions
 *                         displays the latest TR version number in the Development Database
